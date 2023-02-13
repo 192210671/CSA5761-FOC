@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 { int n,i;
- printf("enetr the number\n")
+ printf("enetr the number\n");
  scanf("%d",&n);
  printf("even numbers are");
  for(i=1;i<=n;i++)
@@ -11,7 +11,7 @@ int main()
  
  printf("odd numbers are");
  for(i=1;i<=n;i++)
- { print("%d",2*i-1);
+ { printf("%d",2*i-1);
  }
  return 0;
  }
