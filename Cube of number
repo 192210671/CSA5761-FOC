@@ -1,0 +1,5 @@
+#/bin/sh
+echo "enetr the number"
+read a
+Cube=$((a*a))
+echo "cube of "$a"="$cube
