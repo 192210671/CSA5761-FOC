@@ -1,0 +1,5 @@
+#/bin/sh
+echo "enetr the number"
+read a
+square=$((a*a))
+echo "square of "$a"="$square
