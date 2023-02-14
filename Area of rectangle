@@ -1,0 +1,7 @@
+#/bin/sh
+echo "enetr the length"
+read l
+echo "enter the base"
+read b
+area=$((l*b))
+echo "area is "=$area
