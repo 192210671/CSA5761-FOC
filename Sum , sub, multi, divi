@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "enetr the value of a"
+read a
+echo "enetr the value of b"
+read b
+sum=$((a+b))
+echo "addition="$sum
+sub=$((a-b))
+echo "subtracton ="$sub
+mul=$((a*b))
+echo "multiplication ="$mul
+dev=$((a/b))
+echo "devision ="$dev
